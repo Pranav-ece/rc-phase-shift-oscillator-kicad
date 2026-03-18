@@ -1,10 +1,9 @@
 # Rc-phase-shift-oscillator-kicad
-Design and simulation of an RC Phase Shift Oscillator using KiCad, generating sinusoidal output using op-amp feedback network.
+Design and simulation of an RC Phase Shift Oscillator using KiCad.
 # RC Phase Shift Oscillator (KiCad)
 
 Description
-This project demonstrates the design and simulation of an RC Phase Shift Oscillator using KiCad. The circuit generates a sinusoidal waveform using an op-amp and a three-stage RC feedback network.
-
+This file demonstrates the design and simulation of an RC Phase Shift Oscillator using KiCad. 
 Theory
 An RC Phase Shift Oscillator works on the principle of phase shift:
 - Each RC stage provides 60° phase shift
