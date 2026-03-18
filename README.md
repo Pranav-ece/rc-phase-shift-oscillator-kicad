@@ -1,4 +1,4 @@
-
+RC Phase Shift Oscillator (KiCad)
 Description
 This file demonstrates the design and simulation of an RC Phase Shift Oscillator using KiCad. 
 Theory
